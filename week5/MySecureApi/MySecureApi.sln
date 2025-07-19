@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySecureApi", "MySecureApi.csproj", "{C7B77D99-CB44-434F-8A36-279FAF1731EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7B77D99-CB44-434F-8A36-279FAF1731EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B77D99-CB44-434F-8A36-279FAF1731EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B77D99-CB44-434F-8A36-279FAF1731EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B77D99-CB44-434F-8A36-279FAF1731EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45C9EC70-EE6F-4096-9558-8FBD6C3AC7BF}
+	EndGlobalSection
+EndGlobal
