@@ -1,0 +1,15 @@
+/* Defines the box class with the specified properties */
+.box {
+    width: 300px; /* [cite: 58] */
+    display: inline-block; /* [cite: 59] */
+    margin: 10px; /* [cite: 60] */
+    padding: 10px 20px; /* [cite: 61, 62] */
+    border: 1px solid black; /* [cite: 63] */
+    border-radius: 10px; /* [cite: 64] */
+    text-align: left;
+}
+
+/* Sets the font weight for all <dt> elements */
+dt {
+    font-weight: 500; /* [cite: 65] */
+}
